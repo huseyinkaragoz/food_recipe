@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food Recipe</string>
+    <string name="like_button_text">Like</string>
+    <string name="comment_button_text">Comment</string>
+    <string name="food_type_title">Good for Grill</string>
+    <string name="food_name">Meatball</string>
+    <string name="date_text">30 June 2009</string>
+</resources>
